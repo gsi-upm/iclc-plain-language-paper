@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This rubric is part of the evaluation framework of the Composite Plain Language Index (ICLC) and is specifically used to estimate **Dimension B (communicative quality)** of the index.
+This rubric is part of the evaluation framework of the Complex Plain Language Index (ICLC) and is specifically used to estimate **Dimension B (communicative quality)** of the index.
 
 Dimension B measures how effectively a text communicates its content according to the principles of the ISO 24495-1:2023 Plain Language standard. In particular, it evaluates whether users can:
 

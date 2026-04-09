@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Esta rúbrica forma parte del sistema de evaluación del Índice Compuesto de Lenguaje Claro (ICLC) y se utiliza específicamente para estimar la **Dimensión B (calidad comunicativa)** del índice.
+Esta rúbrica forma parte del sistema de evaluación del Índice Compuesto para Lenguaje Claro (ICLC) y se utiliza específicamente para estimar la **Dimensión B (calidad comunicativa)** del índice.
 
 La Dimensión B mide la calidad con la que un texto comunica su contenido conforme a los principios de la norma ISO 24495-1:2023 de Lenguaje Claro, es decir, si el texto permite que las personas:
 

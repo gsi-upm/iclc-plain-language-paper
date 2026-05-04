@@ -21,8 +21,8 @@ These approaches serve different but related purposes in the assessment of text 
 
 ### 1. CLINFO-CM Rubric (Dimension B)
 
-- `rubric_en.md` — English version  
-- `rubric_es.md` — Spanish version  
+- `rubricB_en.md` — English version  
+- `rubricB_es.md` — Spanish version  
 
 These prompts are used to evaluate the **communicative quality** of a text, corresponding to **Dimension B of the ICLC**.
 
@@ -43,8 +43,8 @@ This evaluation follows a structured *LLM-as-a-judge* approach, where multiple l
 
 ### 2. Global Clarity Evaluation (ICLC Validation)
 
-- `iclc_eval_en.md` — English version  
-- `iclc_eval_es.md` — Spanish version  
+- `iclc_judge_eval_en.md` — English version  
+- `iclc_judge_eval_es.md` — Spanish version  
 
 These prompts are used to perform a **global classification of text clarity**, assigning each text to one of five categories:
 
